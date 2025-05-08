@@ -6,7 +6,9 @@
     <description>Recent content in Categories on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>youremail@example.com (All The Devils Shakespeare Company)</managingEditor>
+    <webMaster>youremail@example.com (All The Devils Shakespeare Company)</webMaster>
+    <copyright>© 2025 All The Devils Shakespeare Company</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
