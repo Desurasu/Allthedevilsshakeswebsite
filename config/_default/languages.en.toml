@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "All The Devils Shakespeare Company"
+title = "All The Devils Shakespeare"
 
 [params]
   displayName = "EN"
@@ -15,9 +15,9 @@ title = "All The Devils Shakespeare Company"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "All The Devils Shakespeare Company"
+  name = "All The Devils Shakespeare"
   email = "youremail@example.com"
   image = "atd_logo.png"
   imageQuality = 96
-  headline = "A Florida Non - Profit"
-  bio = "A little bit about you"
+  headline = "A Florida Non-Profit"
+  bio = "A Florida Non-Profit"

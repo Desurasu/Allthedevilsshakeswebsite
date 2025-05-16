@@ -1,3 +1,7 @@
+---
+showDate: false
+---
+
 # About Us
 
 "Hell is empty and all the devils are here" - The Tempest
