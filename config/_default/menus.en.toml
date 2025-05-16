@@ -26,10 +26,9 @@
   weight = 20
 
 [[main]]
-  name = "Our Mission"
-  parent = "About"
-  pageRef = "mission"
-  weight = 20
+  name = "Auditions"
+  pageRef = "auditions"
+  weight = 29
 
 [[main]]
   name = "Our Board"
