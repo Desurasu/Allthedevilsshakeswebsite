@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Desurasu.github.io/Allthedevilsshakeswebsite/pr-preview/pr-1/sitemap.xml
