@@ -1,5 +1,5 @@
 # Contact Us
 
-put a form here or something lil bro
+## Please reach out for more information at
 
-JELLAY I LITERALLY DONT KNOW HOW TO DO THIS PLEASE DO IT FOR ME uwu
+### devilsshakes@gmail.com
