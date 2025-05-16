@@ -2,20 +2,26 @@
 
 Meet the passionate individuals guiding our vision.
 
-Dani Finch (President)
+## Dani Finch (President)
 
-insert.png.of.dani.here
+![Dani Finch Headshot](dani.jpeg)
 
-Spencer Finch (Vice - President)
+## Spencer Finch (Vice - President)
 
-insert.png.of.spencer.here
+![Spencer Finch Headshot](spencer.jpg)
 
-Zaira Finderson (Board Member at Large)
+## Zaira Finderson (Board Member at Large)
 
-insert.png.of.spencer.here
+![Zaira Finderson Headshot](zaira.jpeg)
 
-Taylor Benn (Board Member at Large)
+## Taylor Benn (Board Member at Large)
 
-insert.png.of.spencer.here
+<!---
+No image yet
+-->
 
-Corin Leblanc (Graphic Designer)
+## Corin Leblanc (Graphic Designer)
+
+<!---
+No image yet
+-->

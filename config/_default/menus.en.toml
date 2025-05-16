@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Auditions"
-  pageRef = "auditions"
+  pageRef = "tags/auditions"
   weight = 29
 
 [[main]]
