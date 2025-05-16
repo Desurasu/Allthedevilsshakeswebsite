@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "All The Devils Shakespeare Company"
 
 [params]
   displayName = "EN"
@@ -17,7 +17,7 @@ title = "Blowfish"
 [params.author]
   name = "All The Devils Shakespeare Company"
   email = "youremail@example.com"
-  image = "img/blowfish_logo.png"
+  image = "atd_logo.png"
   imageQuality = 96
   headline = "hehexd"
   bio = "A little bit about you"
