@@ -10,9 +10,13 @@ Meet the passionate individuals guiding our vision.
 
 ![Dani Finch Headshot](dani.jpeg)
 
+### Dani Finch is a Singer, Actress, and Storyteller hailing originally from Green Cove Springs, Florida. Holding a BFA in Musical Theatre from the University of West Florida, Dani has had the tremendous pleasure of performing in professional Theatre productions all over Florida. All the Devils is her love letter to the classics, and a demonstration of her dedication to make quality theatre and quality education accessible to all. A teacher of 8 years, she is blessed with both the heart and the ability to make this dream come true.
+
 ## Spencer Finch (Vice - President)
 
 ![Spencer Finch Headshot](spencer.jpg)
+
+### Spencer Finch has a deep desire to bring world-class, accessible theater to the Saint Augustine community he calls home. Driven by the belief that the arts should be available to everyone — regardless of income or background — Spencer is committed to creating free, live Shakespearean productions that inspire, educate, and unite. With a BFA in musical theatre from the University of West Florida, the experience that comes from performing in shows across the country, and a heart for service, Spencer is excited to share his passion with the city he loves. Please join us, Saint Augustine, in building a legacy of creativity, community, and connection in our community through the power of live theater.
 
 ## Zaira Finderson (Board Member at Large)
 
