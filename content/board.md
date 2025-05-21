@@ -33,3 +33,4 @@ No image yet
 <!---
 No image yet
 -->
+### Corin Leblanc is the resident artist for All The Devils, bringing a lifelong passion for art and design to the team. From early childhood, Corin was drawn to drawing and began taking formal art classes in elementary school. This passion evolved into a career goal, leading Corin to pursue design courses in high school and earn certifications in programs like Photoshop and Microsoft 360—valuable tools in the design industry. With three years of self-taught experience in Procreate, Corin has developed a strong understanding of color theory, scaling, and digital illustration. Always striving to grow, Corin is committed to learning new techniques and exploring different styles to meet the needs of a diverse range of clients, from logo design to fashion concepts.
