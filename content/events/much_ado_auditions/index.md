@@ -50,65 +50,73 @@ Leonato
 {{< /button >}} -->
 
 ### Beatrice
-<object
-    class="pdf" 
-    data="/sides/maan/Beatrice.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Beatrice.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Benedick
-<object
-    class="pdf" 
-    data="/sides/maan/Benedick.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Benedick.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Claudio
-<object
-    class="pdf" 
-    data="/sides/maan/Claudio.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Claudio.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Dogberry
-<object
-    class="pdf" 
-    data="/sides/maan/Dogberry.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Dogberry.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Don John
-<object
-    class="pdf" 
-    data="/sides/maan/Don_John.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Don_John.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Don Pedro
-<object
-    class="pdf" 
-    data="/sides/maan/Don_Pedro.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Don_Pedro.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Hero
-<object
-    class="pdf" 
-    data="/sides/maan/Hero.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Hero.pdf"
+        type="application/pdf">
+    </object>
+</div>
 
 ### Leonato
-<object
-    class="pdf" 
-    data="/sides/maan/Leonato.pdf"
-    width="800"
-    height="1100">
-</object>
+<div class="pdf-wrapper">
+    <object
+        class="pdf-object"
+        data="/sides/maan/Leonato.pdf"
+        type="application/pdf">
+    </object>
+</div>
