@@ -17,38 +17,6 @@ To Sign Up, please [Contact Us](/contact)
 
 ## Audition Sides:
 
-<!-- {{< button href="/sides/maan/Beatrice.pdf" target="_blank" >}}
-Beatrice
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Benedick.pdf" target="_blank" >}}
-Benedick
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Claudio.pdf" target="_blank" >}}
-Claudio
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Dogberry.pdf" target="_blank" >}}
-Dogberry
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Don_John.pdf" target="_blank" >}}
-Don John
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Don_Pedro.pdf" target="_blank" >}}
-Don Pedro
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Hero.pdf" target="_blank" >}}
-Hero
-{{< /button >}}
-<br><br>
-{{< button href="/sides/maan/Leonato.pdf" target="_blank" >}}
-Leonato
-{{< /button >}} -->
-
 ### Beatrice
 <div class="pdf-wrapper">
     <object
@@ -57,6 +25,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Beatrice.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Benedick
 <div class="pdf-wrapper">
@@ -66,6 +38,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Benedick.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Claudio
 <div class="pdf-wrapper">
@@ -75,6 +51,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Claudio.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Dogberry
 <div class="pdf-wrapper">
@@ -84,6 +64,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Dogberry.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Don John
 <div class="pdf-wrapper">
@@ -93,6 +77,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Don_John.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Don Pedro
 <div class="pdf-wrapper">
@@ -102,6 +90,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Don_Pedro.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Hero
 <div class="pdf-wrapper">
@@ -111,6 +103,10 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Hero.pdf" target="_blank" >}}
+Download
+{{< /button >}}
 
 ### Leonato
 <div class="pdf-wrapper">
@@ -120,3 +116,7 @@ Leonato
         type="application/pdf">
     </object>
 </div>
+<br>
+{{< button href="/sides/maan/Leonato.pdf" target="_blank" >}}
+Download
+{{< /button >}}
