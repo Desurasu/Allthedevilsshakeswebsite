@@ -13,7 +13,7 @@ Auditions are currently open for our next production - Much Ado About Nothing
 
 Auditions will be held on Saturday, June 14th 2025 from 1:00-3:30PM @ Treaty Park - 1595 Wildwood Dr, St. Augustine, FL 32086
 
-To Sign Up, please [Contact Us](/contact)
+To Sign Up, please fill out your information at https://m.signupgenius.com/#!/showSignUp/10C0E4EACAC2FAAFEC61-56983819-much
 
 ## Audition Sides:
 
