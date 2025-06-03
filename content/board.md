@@ -22,6 +22,9 @@ Spencer Finch has a deep desire to bring world-class, accessible theater to the 
 
 ![Zaira Finderson Headshot](zaira.jpeg)
 
+Zaira Finderson is a singer, dancer, actress, and writer who discovered her passion for theatre during high school. Born and raised in Auburn, Indiana the Arts were not always the most popular, accessible, or acceptable. After moving to Tampa, FL to earn her BA in Theatre Performance from the University of South Florida she realized she had infinite capacities for creativity. As a board member for All The Devils she is excited to use her knowledge and passion to create a community of love for classical theatre. Zaira believes that theatre and performance art should be free to invite new audiences, ideas, and passions to explore and create. With the help of her fellow board members, friends, and family she hopes to make this belief a reality.
+“Be fearless in pursuit of what sets your soul on fire.”
+
 ## Taylor Benn (Board Member at Large)
 
 ![Taylor Benn Headshot](taylor.jpg)
