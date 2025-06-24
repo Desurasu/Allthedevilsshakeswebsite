@@ -35,7 +35,7 @@ Taylor Benn is a story-teller that has lived in Florida for a majority of her li
 
 ![Erin Stephens Headshot](erin.jpg)
 
-Erin Stephens is a University of Central Florida Graduate with her BA in Theatre Studies. Though her main passion is performing, in her 12 years of experience she has dabbled in all areas of production. From center stage, to directing, to running the box office; her love and commitment to theatre is unlimited. She is thrilled to be a part of the All the Devils team.
+Erin Stephens is a University of Central Florida Graduate with her BA in Theatre Studies. Though her main passion is performing, in her 12 years of experience she has dabbled in all areas of production. From center stage, to directing, to running the box office; her love and commitment to theatre is unlimited. She is thrilled to be a part of the All The Devils team.
 
 ## Corin Leblanc (Graphic Designer)
 
