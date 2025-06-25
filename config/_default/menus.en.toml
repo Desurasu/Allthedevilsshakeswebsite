@@ -51,6 +51,11 @@
   pageRef = "contact"
   weight = 50
 
+[[main]]
+  name = "Donate"
+  pageRef = "donate"
+  weight = 60
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
