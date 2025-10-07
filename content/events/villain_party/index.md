@@ -1,11 +1,10 @@
-
 ---
-title: Villain Party
-description: "Kids Trick or Treat event! bring your kids out to see some of their favorite villains from iconic movies"
-date: 2025-10-25
-heroStyle: basic
-showHero: false
-tags: ["Fundraiser"]
+  title: Villain Party
+  description: "Kids Trick or Treat event! bring your kids out to see some of their favorite villains from iconic movies"
+  date: 2025-10-25
+  heroStyle: basic
+  showHero: false
+  tags: ["Fundraiser"]
 ---
 
 # Villain Party
