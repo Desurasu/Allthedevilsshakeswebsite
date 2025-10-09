@@ -10,7 +10,7 @@ Dependencies:
 
 ```bash
 hugo mod tidy
-hugo server --logLevel debug --disableFastRender -p 1313
+hugo server --logLevel debug --disableFastRender --buildFuture -p 1313
 ```
 
 ### Maintenance
