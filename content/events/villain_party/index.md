@@ -18,7 +18,7 @@ tags: ["Fundraiser"]
 
 ---
 
-![Graphic](Feature.jpg)
+![Graphic](feature2.jpg)
 
 ## 📅 Event Details
 - **Date:** October 25
