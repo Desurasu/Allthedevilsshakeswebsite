@@ -23,7 +23,8 @@ tags: ["Fundraiser"]
 - **Date:** November 16
 - **Time:** 5:30 PM - 7:30 PM
 - **Location:** 200 Malaga Street STE 7, Saint Augustine, FL 32084
-- **Tickets:** Free! ** Suggested donation of $35 to support this event ** 
+- **Tickets:** Free! ** Suggested donation of $25 to support this event **
+- **"PLEASE PRE REGISTER USING THE LINK BELOW" 
 - [(https://www.zeffy.com/en-US/ticketing/artist-mingle)]
 
 ---
