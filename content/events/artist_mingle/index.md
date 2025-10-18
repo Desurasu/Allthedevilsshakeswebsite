@@ -25,7 +25,7 @@ tags: ["Fundraiser"]
 - **Time:** 5:30 PM - 7:30 PM
 - **Location:** 200 Malaga Street STE 7, Saint Augustine, FL 32084
 - **Tickets:** Free! ** Suggested donation of $35 to support this event ** 
-- [https://www.zeffy.com/en-US/ticketing/st-augustine-villain-party](https://www.zeffy.com/en-US/ticketing/artist-mingle)
+- [(https://www.zeffy.com/en-US/ticketing/artist-mingle)]
 
 ---
 
