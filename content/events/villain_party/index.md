@@ -1,5 +1,5 @@
 ---
-title: Villain Party
+title: Villain Party "[CANCELLED / RESCHEDULED]"
 description: "Kids Trick or Treat event! bring your kids out to see some of their favorite villains from iconic movies"
 date: 2025-10-25
 heroStyle: basic
