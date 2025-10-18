@@ -7,7 +7,8 @@ showHero: false
 tags: ["Fundraiser"]
 ---
 
-# Villain Party
+# Villain Party "[CANCELLED / RESCHEDULED]"
+# We can only accomplish these events with community engagement! Please reach out to see how you can be apart of events in your community!
 
 ## GENUNG'S FISH CAMP
 
