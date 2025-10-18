@@ -1,4 +1,3 @@
-
 ---
 title: Artist Mingle
 description: "All The Devils mission of superior community work begins with the artists! By increasing the level of interconnectivity between the different performance outlets in North East Florida, we believe that we can all work together to tell some fabulous stories. If you are an artist, or want to be involved, please RSVP!"
