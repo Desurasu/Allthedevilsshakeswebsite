@@ -7,7 +7,7 @@ showHero: false
 tags: ["Fundraiser"]
 ---
 
-# Saint Augustine's First Artist Mingle!
+# Saint Augustine Artist Mingle!
 
 ## Located at Third Space Improv
 
