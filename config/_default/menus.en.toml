@@ -26,15 +26,15 @@
   weight = 20
 
 [[main]]
-  name = "Auditions"
-  pageRef = "tags/auditions"
-  weight = 29
-
-[[main]]
   name = "Our Board"
   parent = "About"
   pageRef = "board"
   weight = 20
+
+[[main]]
+  name = "Auditions"
+  pageRef = "tags/auditions"
+  weight = 29
 
 [[main]]
   name = "Events"
@@ -53,8 +53,19 @@
 
 [[main]]
   name = "Donate"
+  weight = 60
+
+[[main]]
+  name = "Donate"
   url = "https://www.zeffy.com/en-US/donation-form/all-the-devils-shakespeare-donations"
   weight = 60
+  parent = "Donate"
+
+[[main]]
+  name = "Advertise"
+  url = "https://www.zeffy.com/en-US/ticketing/2026-season-advertisements"
+  weight = 60
+  parent = "Donate"
 
 [[main]]
   name = "Shop"
