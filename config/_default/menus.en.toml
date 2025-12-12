@@ -52,20 +52,20 @@
   weight = 50
 
 [[main]]
-  name = "Donate"
+  name = "Donations"
   weight = 60
 
 [[main]]
-  name = "Donate"
+  name = "General Donate"
   url = "https://www.zeffy.com/en-US/donation-form/all-the-devils-shakespeare-donations"
   weight = 60
-  parent = "Donate"
+  parent = "Donations"
 
 [[main]]
   name = "Advertise"
   url = "https://www.zeffy.com/en-US/ticketing/2026-season-advertisements"
   weight = 60
-  parent = "Donate"
+  parent = "Donations"
 
 [[main]]
   name = "Shop"
