@@ -19,7 +19,7 @@ tags: ["Shows", "Past Events"]
 ![Graphic](feature1.jpg)
 
 ## 📅 Event Details
-- **Date:** February 27
+- **Date:** February 27 - March 8th
 - **Time:** 6:00 PM
 - **Location:** TBA <!-- Treaty Park, St. Augustine, FL -->
 - **Tickets:** $25 staged performance, Free at Treaty Park
