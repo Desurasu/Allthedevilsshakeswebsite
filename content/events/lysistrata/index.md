@@ -16,7 +16,7 @@ tags: ["Shows", "Past Events"]
 
 ---
 
-![Graphic](feature.jpg)
+![Graphic](feature1.jpg)
 
 ## 📅 Event Details
 - **Date:** February 27
