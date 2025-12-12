@@ -9,7 +9,7 @@ tags: ["Shows", "Past Events"]
 
 # All The Devils Presents
 
-## Lysistrata
+## Lysistrata by Aristophanes
 
 **Presented by:** All the Devils Shakespeare  
 **Directed by:** Dani Finch and Zaira Finderson 
