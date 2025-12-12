@@ -31,11 +31,17 @@ Zaira Finderson is a singer, dancer, actress, and writer who discovered her pass
 
 Taylor Benn is a story-teller that has lived in Florida for a majority of her life. Placing her roots in St. Augustine in 2021, Taylor has fallen in love with the atmosphere, historic significance, and lifestyle of the area, and hopes to bring even more culture into the city’s future. Taylor has always been surrounded with the creative atmospheres suck as theater, music, art, and poetry her entire life- thus it has become a very important part of her both on a personal and professional level.
 
-## Erin Stephens (Stage Manager)
+## Erin Stephens (Board Member at Large)
 
 ![Erin Stephens Headshot](erin.jpg)
 
 Erin Stephens is a University of Central Florida Graduate with her BA in Theatre Studies. Though her main passion is performing, in her 12 years of experience she has dabbled in all areas of production. From center stage, to directing, to running the box office; her love and commitment to theatre is unlimited. She is thrilled to be a part of the All The Devils team.
+
+## Collin James (Board Member at Large)
+
+![Collin James Headshot](collin.jpg)
+
+<!-- ADD COLLINS BIO HERE WHEN YOU GET IT -->
 
 ## Corin Leblanc (Graphic Designer)
 
