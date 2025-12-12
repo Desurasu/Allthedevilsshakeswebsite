@@ -1,10 +1,10 @@
 ---
 title: Lysistrata
 description: 2026 March Show
-date: 2025-02-27
+date: 2026-02-27
 heroStyle: basic
 showHero: false
-tags: ["Shows", "Past Events"]
+tags: ["Shows"]
 ---
 
 # All The Devils Presents
