@@ -22,3 +22,14 @@ Sign Up for a Slot Here!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3458.9699307542437!2d-81.32330528740258!3d29.893967025577904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e427eaf7f0c533%3A0xa4a38561267e4e8e!2s200%20Malaga%20St%2C%20St.%20Augustine%2C%20FL%2032084!5e0!3m2!1sen!2sus!4v1765585950411!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## SIDES
+
+Please see the following audition sides for Lysistrata, The Magistrate, and The Chorus of Old Men!
+All other roles will be cast during the audition using provided group scenes.
+
+<object
+    class="pdf" 
+    data="/sides/maan/Beatrice.pdf"
+    width="800"
+    height="1100">
+</object>
