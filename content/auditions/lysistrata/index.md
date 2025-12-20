@@ -31,23 +31,23 @@ All other roles will be cast during the audition using provided group scenes.
     class="pdf" 
     data="/sides/lysistrata/Lysistrata_A.pdf"
     width="800"
-    height="1100">
+    height="800">
 </object>
 <object
     class="pdf" 
     data="/sides/lysistrata/Lysistrata_B.pdf"
     width="800"
-    height="1100">
+    height="800">
 </object>
 <object
     class="pdf" 
     data="/sides/lysistrata/Chorus_of_Men.pdf"
     width="800"
-    height="1100">
+    height="800">
 </object>
 <object
     class="pdf" 
     data="/sides/lysistrata/Magistrate.pdf"
     width="800"
-    height="1100">
+    height="800">
 </object>
