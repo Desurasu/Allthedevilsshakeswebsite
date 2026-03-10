@@ -19,3 +19,5 @@ View our latest productions and behind-the-scenes moments.
 ![REHEARSAL4](reh_4.png)
 
 ![PROTEST1](protest_1.png)
+
+![PURPLE MUCH ADO](purp_poster.png)
