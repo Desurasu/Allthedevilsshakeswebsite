@@ -6,16 +6,16 @@ showDate: false
 
 View our latest productions and behind-the-scenes moments.
 
-mag.jpg
+![PROPOGANDA POSTER](mag.jpg)
 
-mag_1.jpg
+![PROPOGANDA POSTER DEFACED](mag1.jpg)
 
-reh_1.heic
+![REHEARSAL1](reh_1.heic)
 
-reh_2.heic
+![REHEARSAL2](reh_2.heic)
 
-reh_3.heic
+![REHEARSAL3](reh_3.heic)
 
-reh_4.heic
+![REHEARSAL4](reh_4.heic)
 
-protest_1.heic
+![PROTEST1](protest_1.heic)
