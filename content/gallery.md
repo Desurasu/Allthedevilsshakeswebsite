@@ -6,16 +6,16 @@ showDate: false
 
 View our latest productions and behind-the-scenes moments.
 
-![PROPOGANDA POSTER](mag.jpg)
+![PROPOGANDA POSTER](mag.png)
 
-![PROPOGANDA POSTER DEFACED](mag1.jpg)
+![PROPOGANDA POSTER DEFACED](mag1.png)
 
-![REHEARSAL1](reh_1.heic)
+![REHEARSAL1](reh_1.png)
 
-![REHEARSAL2](reh_2.heic)
+![REHEARSAL2](reh_2.png)
 
-![REHEARSAL3](reh_3.heic)
+![REHEARSAL3](reh_3.png)
 
-![REHEARSAL4](reh_4.heic)
+![REHEARSAL4](reh_4.png)
 
-![PROTEST1](protest_1.heic)
+![PROTEST1](protest_1.png)
