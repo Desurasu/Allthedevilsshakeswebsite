@@ -8,7 +8,7 @@ View our latest productions and behind-the-scenes moments.
 
 ![PROPOGANDA POSTER](mag.png)
 
-![PROPOGANDA POSTER DEFACED](mag1.png)
+![PROPOGANDA POSTER DEFACED](mag_1.png)
 
 ![REHEARSAL1](reh_1.png)
 
