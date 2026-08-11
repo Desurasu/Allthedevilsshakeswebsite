@@ -1,5 +1,5 @@
 ---
-title: "Auditions: Lysistrata"
+title: "Auditions: War of the Worlds"
 description: "blah"
 date: 2026-01-10
 heroStyle: basic
