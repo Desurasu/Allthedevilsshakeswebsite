@@ -18,13 +18,6 @@ Dani Finch is a Singer, Actress, and Storyteller hailing originally from Green C
 
 Spencer Finch has a deep desire to bring world-class, accessible theater to the Saint Augustine community he calls home. Driven by the belief that the arts should be available to everyone — regardless of income or background — Spencer is committed to creating free, live Shakespearean productions that inspire, educate, and unite. With a BFA in musical theatre from the University of West Florida, the experience that comes from performing in shows across the country, and a heart for service, Spencer is excited to share his passion with the city he loves. Please join us, Saint Augustine, in building a legacy of creativity, community, and connection in our community through the power of live theater.
 
-## Zaira Finderson (Board Member at Large)
-
-![Zaira Finderson Headshot](zaira.jpeg)
-
-Zaira Finderson is a singer, dancer, actress, and writer who discovered her passion for theatre during high school. Born and raised in Auburn, Indiana the Arts were not always the most popular, accessible, or acceptable. After moving to Tampa, FL to earn her BA in Theatre Performance from the University of South Florida she realized she had infinite capacities for creativity. As a board member for All The Devils she is excited to use her knowledge and passion to create a community of love for classical theatre. Zaira believes that theatre and performance art should be free to invite new audiences, ideas, and passions to explore and create. With the help of her fellow board members, friends, and family she hopes to make this belief a reality.
-“Be fearless in pursuit of what sets your soul on fire.”
-
 ## Taylor Benn (Board Member at Large)
 
 ![Taylor Benn Headshot](taylor.jpg)
