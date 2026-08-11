@@ -1,7 +1,7 @@
 ---
 title: "Auditions: War of the Worlds"
 description: "blah"
-date: 2026-01-10
+date: 2026-08-23
 heroStyle: basic
 showHero: false
 tags: ["Auditions"]
