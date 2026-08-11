@@ -15,7 +15,7 @@ tags: ["Auditions"]
 - **What to Prepare** War of the Worlds in the form of a radio play will need to be performed by incredible story teller. So please prepare a story to tell us for the audition. Any story.
 - **Restriction:** Due to mature content, this audition is for those 18+
 
-{{< button href="[(https://www.signupgenius.com/go/10C044FA8AA2FA1FECF8-65105131-warofthe)]" target="_blank" >}}
+{{< button href="[https://www.signupgenius.com/go/10C044FA8AA2FA1FECF8-65105131-warofthe]" target="_blank" >}}
 Sign Up for a Slot Here!
 {{< /button >}}
 
