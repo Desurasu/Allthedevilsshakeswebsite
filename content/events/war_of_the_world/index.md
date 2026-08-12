@@ -19,7 +19,7 @@ Performance Dates will be October 16th, 17th, and 18th at The Waterworks
 and October 23rd, 24th, and 25th In Saint Marys, GA
 ---
 
-![Graphic](WotW.jpg)
+![Graphic](feature.jpg)
 
 ## 📅 Event Details
 - **Date:** October 16, 17th, and 18th
