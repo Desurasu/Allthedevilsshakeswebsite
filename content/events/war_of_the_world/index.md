@@ -1,8 +1,8 @@
-
 ---
 title: War Of The Worlds
 description: 2026 October Show
-date: 2026-10-16
+date: 2026-10-16 # Event Date
+publishDate: 2026-08-10 # Publish Date
 heroStyle: basic
 showHero: false
 tags: ["Shows"]
