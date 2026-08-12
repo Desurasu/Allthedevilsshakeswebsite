@@ -4,7 +4,7 @@ description: "blah"
 date: 2026-01-10
 heroStyle: basic
 showHero: false
-tags: ["Auditions"]
+tags: ["Auditions", "Past Events"]
 ---
 
 ## 📅 Details:

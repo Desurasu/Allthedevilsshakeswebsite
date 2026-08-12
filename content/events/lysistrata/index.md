@@ -4,7 +4,7 @@ description: 2026 March Show
 date: 2026-03-06
 heroStyle: basic
 showHero: false
-tags: ["Shows"]
+tags: ["Shows", "Past Events"]
 ---
 
 # All The Devils Presents
