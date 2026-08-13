@@ -4,7 +4,7 @@ description: "Kids Trick or Treat event! bring your kids out to see some of thei
 date: 2025-10-25
 heroStyle: basic
 showHero: false
-tags: ["Fundraiser"]
+tags: ["Fundraiser", "Past Events"]
 ---
 
 # Villain Party "[CANCELLED / RESCHEDULED]"

@@ -4,7 +4,7 @@ description: "All The Devils mission of superior community work begins with the 
 date: 2025-11-16
 heroStyle: basic
 showHero: false
-tags: ["Fundraiser"]
+tags: ["Fundraiser", "Past Events"]
 ---
 
 # Saint Augustine Artist Mingle!
